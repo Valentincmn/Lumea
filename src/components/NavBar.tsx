@@ -1,3 +1,5 @@
+
+
 function NavBar() {
   return (
     <nav className="flex w-full items-start justify-between bg-background px-8 py-4 absolute top-0 left-0 right-0">
