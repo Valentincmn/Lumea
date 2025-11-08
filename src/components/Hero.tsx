@@ -15,7 +15,7 @@ export default function Hero() {
             </span>
           </div>
 
-          <div className="relative md:w-[572px] md:h-[446px] w-full mt-6 md:mt-0 px-7">
+          <div className="relative md:w-[735px] md:h-[446px] w-full mt-6 md:mt-0 px-7 z-10">
             <img
               src="src/assets/salon.png"
               alt="Salon"
