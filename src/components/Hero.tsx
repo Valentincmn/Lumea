@@ -1,3 +1,5 @@
+import salonImage from "../assets/salon.png";
+
 export default function Hero() {
   return (
     <div>
@@ -17,7 +19,7 @@ export default function Hero() {
 
           <div className="relative md:w-[735px] md:h-[446px] w-full mt-6 md:mt-0 px-7 z-10">
             <img
-              src="src/assets/salon.png"
+              src={salonImage}
               alt="Salon"
               className="w-full h-full object-cover"
             />
